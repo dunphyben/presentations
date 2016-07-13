@@ -14,6 +14,17 @@ body {
   background: #222;
   background-color: #222; }
 
+body.white {
+  background: white;
+  background-color: white;
+}
+
+section.white {
+  background: white;
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+
 .reveal {
   font-family: "Source Sans Pro", Helvetica, sans-serif;
   font-size: 38px;
@@ -231,7 +242,8 @@ body {
 
 .reveal section img.plain {
   border: 0;
-  box-shadow: none; }
+  box-shadow: none;
+  background: none; }
 
 .reveal a img {
   -webkit-transition: all .15s linear;
