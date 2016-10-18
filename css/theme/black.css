@@ -75,6 +75,15 @@ section.white {
 .reveal h1 {
   text-shadow: none; }
 
+.blue {
+  color: #02AEEF;
+}
+
+.white-br body {
+  background: white;
+  background-color: white;
+}
+
 /*********************************************
  * OTHER
  *********************************************/
